@@ -26,4 +26,4 @@
   ● Subscriber System - Allow the addition and removal of customers who wish to subscriber to the mailing list. 
                         Automatic messaging about promotions, repricing and new items.
   
-**This project was carried out by guidlines provided by The University of The West Indies.
+**This project was carried out by guidlines provided by The University of The West Indies.**
